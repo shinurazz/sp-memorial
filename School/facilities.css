@@ -1,0 +1,66 @@
+* {
+  box-sizing: border-box;
+}
+.navbar-collapse {
+  justify-content: flex-end;
+}
+.fa-graduation-cap {
+  font-size: 32px;
+}
+.jumbotron.headtext {
+  padding: 4rem 2rem;
+  height: 60px;
+  text-align: center;
+  padding-right: 0.9rem;
+  color: #000066;
+  text-decoration: none;
+  margin: 0px;
+  font-family: "Bitter", serif;
+  text-transform: uppercase;
+  width: 100%;
+}
+.jumbotron.bg {
+  padding: 4rem 2rem;
+  background-color: #f7f7f7;
+}
+hr.hr {
+  margin: 0px;
+  border-top: 3px solid rgba(0, 0, 0, 0.1);
+}
+.img {
+  height: 190px;
+  width: 360px;
+  max-width: 380px;
+  padding: 5px 5px 5px 5px;
+  margin-left: 4px;
+  box-shadow: 4px 7px 12px 0px rgba(0, 0, 0, 0.75);
+}
+.page {
+  background-color: #f7f7f7;
+  color: #333333;
+  display: flex;
+  flex-wrap: wrap;
+}
+.paragraph {
+  padding: 10px 10px 10px 10px;
+}
+@media (min-width: 590px) {
+  .page {
+    flex-wrap: nowrap;
+  }
+}
+h2.lab {
+  font-size: 28px;
+  color: #19191a;
+  font-weight: 400;
+  text-transform: uppercase;
+  text-align: center;
+  font-family: "Bitter", serif;
+  padding-top: 10px;
+}
+.image {
+  width: 550px;
+}
+p {
+  font-weight: 400;
+}

@@ -1,0 +1,74 @@
+.navbar-collapse {
+    justify-content: flex-end;
+}
+
+.fa-graduation-cap {
+    font-size: 32px;
+}
+
+h3 {
+    font-size: 300%;
+    text-align: center;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #000066;
+    padding-top: 55px;
+    background-color: #e9ecef;
+    margin: 0px;
+}
+
+.director {
+    height: auto;
+    width: 100%;
+    box-shadow: 3px 7px 12px 0px rgba(0, 0, 0, 0.75);
+}
+
+p.directorpara {
+    display: inline-block;
+    padding: 10px 20px;
+}
+
+.teachers {
+    background-color: #F7F7F7;
+}
+
+h4.d {
+    font-size: 200%;
+    color: #000066;
+    padding-left: 80px;
+    font-family: 'Merriweather', serif;
+    padding-top: 12px;
+    text-align: auto;
+}
+
+.footer {
+    background-color: #cb2027;
+    height: 60px;
+    width: auto;
+    text-align: center;
+    color: #ffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer p {
+    margin: 0px;
+}
+
+hr {
+    margin: 0px;
+}
+
+.prospectus {
+    font-family: "Roboto", sans-serif;
+    font-size: 16px;
+    text-align: center;
+    margin-top: 1px;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    justify-self: auto;
+    color: #333333;
+    background-color: #F7F7F7;
+}

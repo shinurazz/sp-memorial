@@ -1,0 +1,51 @@
+.navbar-collapse {
+  justify-content: flex-end;
+}
+.fa-graduation-cap {
+  font-size: 32px;
+}
+h3 {
+  font-size: 300%;
+  text-align: center;
+  font-weight: 400;
+  text-transform: uppercase;
+  color: #000066;
+  padding-top: 55px;
+  background-color: #e9ecef;
+  margin: 0px;
+}
+hr {
+  margin: 0px;
+}
+h3.about {
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 60px;
+  padding-bottom: 5px;
+  box-shadow: 1px 3px 10px 0px rgba(0, 0, 0, 0.75);
+}
+.card-body > iframe {
+  width: 100%;
+}
+.col-md-6 .card {
+  height: 100%;
+}
+.c {
+  color: black;
+}
+.footer {
+  background-color: #cb2027;
+  height: 60px;
+  width: auto;
+  text-align: center;
+  color: #ffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.footer p {
+  margin: 0px;
+}
+*body {
+  width: auto;
+}
